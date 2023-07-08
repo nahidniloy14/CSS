@@ -1,6 +1,6 @@
-/*
-Three types of CSS
-1. Inline
-2. Internal or embedded
-3. External
-/*
+h1{
+    background-color: aqua;
+}
+p{
+    background-color: tomato;
+}
